@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #adacac;
+}
+
+#principal{
+    background-color: #ffffff;
+    margin-top: 0;
+    width: 280px;
+    margin-inline: auto;
+    border: solid 8px #979797;
+    border-top: none;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+h1, h2{
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+hr{
+    height: 3px;
+}
+
+.tabelas{
+    margin: 10px auto;
+    
+}
+
+.tabelas .tabela-moda{
+    font-size: 19px;
+}
+
+.tabelas .tabela-casa{
+    font-size: 25px ;
+}
+
+table, th, td{
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse ;
+    margin: auto;
+    margin-block: auto;
+}
+
+.cabecalho-moda{
+    background-color: #BB86FC;
+}
+
+.cabecalho-casa{
+    background-color: #00C4B4
+}
+
+td{
+    background-color: #424250;
+}
